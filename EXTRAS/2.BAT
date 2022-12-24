@@ -1,0 +1,1 @@
+\Assembly\tasm\bin\tlink %1.obj
